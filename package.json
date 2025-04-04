@@ -1,0 +1,16 @@
+{
+  "name": "gen19",
+  "version": "1.0.0",
+  "main": "00-variables.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gen19": "file:",
+    "prompt-sync": "^4.2.0"
+  }
+}
