@@ -1,0 +1,21 @@
+
+h3 {
+    background-color: red ;
+}
+
+p {
+    color: green;
+    font-size: 20px;
+}
+
+#hola {
+    color: rgb(212, 76, 128);
+}
+
+.bg-color-azul {
+    background-color: blue;
+}
+
+.fuente-cambiada {
+    font-family: 'Courier New', Courier, monospace;
+}
